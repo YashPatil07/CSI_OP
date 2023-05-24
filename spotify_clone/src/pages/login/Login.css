@@ -1,0 +1,22 @@
+.login_page{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  height: 100vh;
+}
+.logo{
+  height: 20vw;
+  margin-top: 30px;
+  width: 75%;
+}
+.login{
+  margin: 50px 0 0 0;
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+  background-color: rgb(32, 164, 32);
+}
+p{
+  color: aliceblue;
+}
